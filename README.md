@@ -24,7 +24,7 @@ N'hésitez pas à utiliser le flux de travail qui vous convient le mieux. Vous t
 4. Examinez les modèles pour commencer à planifier la manière dont vous allez aborder le projet. Cette étape est cruciale pour vous aider à anticiper les classes CSS du Bootstrap réutilisables.
 5. Avant d'ajouter des classes css et styles, le contenu du HTML est déjà structuré. Le fait d'écrire d'abord des classes en Bootstrap peut vous aider à vous concentrer sur l'apprentissage de plusieurs ensembles des composants d'un contenu bien structurés.
 6. Le projet manque d'un composant nommé modal ou bien popup. (Voir la partie Modal preview)
-7. Ce modal contient tout simplement un formulaire d'ajouter une nouvelle tâche (**`Title`**, Type (**`Feature`** ou bien **`Bug`**), **`Priority`** (**`Low`**`, **`Medium`**, **`High`**, **`Critical`**), Status(**`To Do`**, **`In Progress`**, **`Done`**), **`Date`** et **`Description`**, lorsqu'un utilisateur clique sur le Boutton `Add Task`.
+7. Ce modal contient tout simplement un formulaire d'ajouter une nouvelle tâche (**`Title`**, Type (**`Feature`** ou bien **`Bug`**), **`Priority`** (**`Low`**, **`Medium`**, **`High`**, **`Critical`**), Status(**`To Do`**, **`In Progress`**, **`Done`**), **`Date`** et **`Description`**, lorsqu'un utilisateur clique sur le Boutton `Add Task`.
 
 ## Layout
 
